@@ -1,0 +1,9 @@
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\WorkOutDBLayer.dll.config
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\WorkOutDBLayer.dll
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\WorkOutDBLayer.pdb
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\EntityFramework.dll
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\EntityFramework.xml
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\obj\Debug\WorkOutDBLayer.dll
+C:\Cts_dotNetBatch2\WorkOutTrackService\WorkOutDBLayer\obj\Debug\WorkOutDBLayer.pdb
